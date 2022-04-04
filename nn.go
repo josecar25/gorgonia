@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/pkg/errors"
-	"github/josecar25/gorgonia/internal/encoding"
+	"github.com/josecar25/gorgonia/internal/encoding"
 	"gorgonia.org/tensor"
 )
 
