@@ -1,4 +1,4 @@
-module gorgonia.org/gorgonia
+module github.com/josecar25/gorgonia
 
 go 1.12
 
@@ -19,3 +19,5 @@ require (
 	gorgonia.org/dawson v1.2.0
 	gorgonia.org/tensor v0.9.22-0.20211018175907-3039f42ea573
 )
+
+replace gorgonia.org/gorgonia => github.com/josecar25/gorgonia/version latest
